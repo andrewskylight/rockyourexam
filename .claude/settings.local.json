@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/F:\\Users\\PC\\Downloads\\332a/**)",
+      "Read(/F:\\Users\\PC\\Downloads\\332a/**)",
+      "Read(/F:\\Users\\PC\\Downloads\\332a/**)",
+      "Read(/F:\\Users\\PC\\Downloads\\332a/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
